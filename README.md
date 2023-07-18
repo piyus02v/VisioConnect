@@ -33,9 +33,8 @@ This code consists of three parts :
 * Join the already existing video call
 * Video Call where many people can be connected
 
-# How to use the website ? 😵
-Link to demo : [Demo](https://docs.google.com/presentation/d/17TXbD7P3AHnuO0mS9khCfFmtxdpJ1tB8T7gI22bh1gs/edit?usp=sharing)
+
 
 # Website link 🖇
-Link : [Video Call Web-App](https://lit-coast-97694.herokuapp.com/)
-This website has been deployed using heroku
+Link : [Video Call Web-App](https://visio-connect-htqo.vercel.app/?vercelToolbarCode=gDy-6IvK104VV0-)
+This website has been deployed using Vercel
