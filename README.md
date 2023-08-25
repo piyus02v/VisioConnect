@@ -1,6 +1,6 @@
 # VideoCall-and-Chat
 
-This repository contains the code for the Video-Call-Web-App developed by : [Piyush Vaish](https://github.com/piyus02v) under the Microsoft Mentorship Program, 2021. 
+This repository contains the code for the Video-Call-Web-App developed by : [Piyush Vaish](https://github.com/piyus02v). 
 
 This project was developed following the Agile Methodology. And there were changes in every step which is a positive point of Agile Methodology. The work was divided into different sprints and henceforth, helped in the continuation of the project. 
 
